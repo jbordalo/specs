@@ -426,4 +426,4 @@ updated to incorporate the changes.
 [simopen]: ./simopen.md
 [resource-manager-issue]: https://github.com/libp2p/go-libp2p/issues/635
 [hole-punching]: ./hole-punching.md
-[inlined-muxer-selection]: ./inlined-muxer-negotiation.md
+[inlined-muxer-negotiation]: ./inlined-muxer-negotiation.md
