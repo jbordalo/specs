@@ -422,7 +422,7 @@ updated to incorporate the changes.
 [mss-2-pr]: https://github.com/libp2p/specs/pull/95
 [go-eventbus]: https://github.com/libp2p/go-eventbus
 [go-net-notifee]: https://github.com/libp2p/go-libp2p-core/blob/master/network/notifee.go
-[identify/push]: ../identify/README.md#identify-push
+[identify-push]: ../identify/README.md#identify-push
 [simopen]: ./simopen.md
 [resource-manager-issue]: https://github.com/libp2p/go-libp2p/issues/635
 [hole-punching]: ./hole-punching.md
